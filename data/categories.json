@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cat1",
+    "name": "Electronics",
+    "slug": "electronics",
+    "icon": "Cpu"
+  },
+  {
+    "id": "cat2",
+    "name": "Books & Stationery",
+    "slug": "books-stationery",
+    "icon": "BookOpen"
+  },
+  {
+    "id": "cat3",
+    "name": "Home & Living",
+    "slug": "home-living",
+    "icon": "Home"
+  },
+  {
+    "id": "cat4",
+    "name": "Fashion & Apparel",
+    "slug": "fashion-apparel",
+    "icon": "Shirt"
+  },
+  {
+    "id": "cat5",
+    "name": "Handmade Crafts",
+    "slug": "handmade-crafts",
+    "icon": "Sparkles"
+  },
+  {
+    "id": "cat6",
+    "name": "Beauty",
+    "slug": "beauty",
+    "icon": "Sparkles"
+  }
+]

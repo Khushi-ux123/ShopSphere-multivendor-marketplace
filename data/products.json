@@ -1,0 +1,156 @@
+[
+  {
+    "id": "prod4",
+    "title": "Premium Full-Grain Leather Journal",
+    "description": "Lovingly hand-bound journals made from vegetable-dyed rustic cowhide, stuffed with 240 plain deckle-edge archival linen pages (120gsm). Resists bleed-through perfectly for executive fountain pens and artist charcoal sketched masterpieces. Securely enclosed with a rich leather strap closure.",
+    "price": 48,
+    "originalPrice": 55,
+    "stock": 18,
+    "category": "books-stationery",
+    "images": [
+      "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1531346878377-a5be20888e57?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor2",
+    "vendorName": "The Woodcreek Artisan Workshop",
+    "avgRating": 4.9,
+    "totalReviews": 6,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod1",
+    "title": "Bespoke ANC Wireless Headphones",
+    "description": "Sublime acoustics with high-fidelity active hybrid noise cancellation. Encased in beautiful brushed aluminum housing and authentic soft leather ear cushions designed for tireless, immersive listening. Equipped with Bluetooth 5.2, 40 hours of continuous playing time, and rapid USB-C dual-stage charging.",
+    "price": 299.99,
+    "originalPrice": 349.99,
+    "stock": 24,
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1484704849700-f032a568e944?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor1",
+    "vendorName": "Sterling Tech & Electronics",
+    "avgRating": 4.8,
+    "totalReviews": 5,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod5",
+    "title": "Hand-Carved Black Walnut Desk Stand",
+    "description": "Sleek structural monitor and technology stand designed for ergonomics. Hand-carved from a single solid block of black walnut harvested from sustainable timber fields. Hand-finished with premium hard-wax oils to protect wood grain natural beauty.",
+    "price": 115,
+    "stock": 10,
+    "category": "home-living",
+    "images": [
+      "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor2",
+    "vendorName": "The Woodcreek Artisan Workshop",
+    "avgRating": 4.7,
+    "totalReviews": 3,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod6",
+    "title": "Archival Solid Brass Fountain Pen",
+    "description": "Heavyweight raw brass barrel writes smoothly, forming a gorgeous custom copper patina with direct hand usage. Features an elegant fine German iridium-tipped nib for exceptionally fine, fluid lines. Refillable with standard global screw ink converters.",
+    "price": 75,
+    "originalPrice": 85,
+    "stock": 25,
+    "category": "books-stationery",
+    "images": [
+      "https://images.unsplash.com/photo-1583485088034-697b5bc54ccd?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor2",
+    "vendorName": "The Woodcreek Artisan Workshop",
+    "avgRating": 4.6,
+    "totalReviews": 4,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod2",
+    "title": "Minimalist Mechanical Keyboard",
+    "description": "Constructed on a sturdy CNC-machined walnut timber chassis with tactile linear silent switches. Boasts customizable ice-blue keycaps with warm underglow lighting, hot-swappable key switches, and solid brass accent plate detail. Designed for typing enthusiasts and modern desktop environments.",
+    "price": 189,
+    "originalPrice": 199,
+    "stock": 12,
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1587829741301-dc798b83add3?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor1",
+    "vendorName": "Sterling Tech & Electronics",
+    "avgRating": 4.5,
+    "totalReviews": 2,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod3",
+    "title": "Amber Glow Smart Ambient Beacon",
+    "description": "An elegant, applet-controlled smart glass lantern that outputs comforting bio-effective Amber lighting. Connects smoothly to home assist devices via simple REST API integrations. Recharges on a wireless induction copper tray.",
+    "price": 89.5,
+    "originalPrice": 110,
+    "stock": 50,
+    "category": "electronics",
+    "images": [
+      "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor1",
+    "vendorName": "Sterling Tech & Electronics",
+    "avgRating": 4.2,
+    "totalReviews": 1,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod7",
+    "title": "Undertone Minimal Canvas Tote Bag",
+    "description": "An architectural everyday tote bag manufactured from 100% heavy duty rain-protected raw black linen. Equipped with dynamic interior canvas modular laptop slot dividers and sturdy black leather shoulder strap handles.",
+    "price": 64,
+    "stock": 26,
+    "category": "fashion-apparel",
+    "images": [
+      "https://images.unsplash.com/photo-1544816155-12df9643f363?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor3",
+    "vendorName": "Thorne Couture & Apparel",
+    "avgRating": 0,
+    "totalReviews": 0,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod8",
+    "title": "Rose Quartz Revitalizing Facial Roller",
+    "description": "Crafted from hand-carved, authentic rose quartz crystal. Relieves facial muscle tension, reduces puffiness, and supports lymphatic drainage when rolled over cleansed skin. Equipped with dual-ended smooth stone rollers and noise-free silicone gaskets.",
+    "price": 28,
+    "originalPrice": 34,
+    "stock": 45,
+    "category": "beauty",
+    "images": [
+      "https://images.unsplash.com/photo-1590439471364-192aa70c0b53?w=800&auto=format&fit=crop&q=80",
+      "https://images.unsplash.com/photo-1512496015851-a90fb38ba796?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor3",
+    "vendorName": "Thorne Couture & Apparel",
+    "avgRating": 4.7,
+    "totalReviews": 3,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  },
+  {
+    "id": "prod9",
+    "title": "Pure Botanical Infused Face Elixir",
+    "description": "An ultra-nourishing active facial oil infused with Damascus rose extracts, cold-pressed jojoba, and Vitamin E. Naturally hydrates and delivers a radiant, luminous glow. Easily absorbed without heavy grease or residue, leaving a delicate scent profile.",
+    "price": 42,
+    "originalPrice": 48,
+    "stock": 35,
+    "category": "beauty",
+    "images": [
+      "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=800&auto=format&fit=crop&q=80"
+    ],
+    "vendorId": "usr_vendor3",
+    "vendorName": "Thorne Couture & Apparel",
+    "avgRating": 4.9,
+    "totalReviews": 7,
+    "createdAt": "2026-06-10T22:35:15.957Z"
+  }
+]
