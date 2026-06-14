@@ -1,12 +1,16 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# ShopSphere – Multi-Vendor E-Commerce Marketplace
+ShopSphere is a full-stack multi-vendor e-commerce platform that enables customers to discover products, vendors to manage inventory and orders, and administrators to oversee marketplace operations through dedicated dashboards.
 
-# Run and deploy your AI Studio app
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/8f8ab82e-afb1-4f70-84d4-e16367130368
+## Features
+- Role-Based Authentication (Customer, Vendor, Admin)
+- Product Catalog Management
+- Shopping Cart & Wishlist
+- Order Processing & Tracking
+- Vendor Dashboard
+- Admin Dashboard
+- Advanced Product Search
+- Responsive Design
+- RESTful APIs
 
 ## Run Locally
 
