@@ -36,7 +36,7 @@ interface HomeProps {
 }
 
 export const Home: React.FC<HomeProps> = ({ onNavigate }) => {
-  const { products, categories, toggleWishlist, wishlist, addToCart } = useApp();
+  const { products, categories, toggleWishlist, wishlist, addToCart, user } = useApp();
   
   // Carousel state
   const [carouselIndex, setCarouselIndex] = useState(0);
@@ -268,12 +268,28 @@ export const Home: React.FC<HomeProps> = ({ onNavigate }) => {
                 Explore ShopSphere
                 <ArrowRight className="h-4 w-4" />
               </button>
-              <button
-                onClick={() => onNavigate('login?register=vendor')}
-                className="px-6 py-3 bg-white/5 hover:bg-white/10 text-white rounded-xl font-bold border border-white/10 text-xs hover:border-white/30 transition-all cursor-pointer backdrop-blur-md"
-              >
-                Join ShopSphere Guild
-              </button>
+              {!user ? (
+                <button
+                  onClick={() => onNavigate('login?register=vendor')}
+                  className="px-6 py-3 bg-white/5 hover:bg-white/10 text-white rounded-xl font-bold border border-white/10 text-xs hover:border-white/30 transition-all cursor-pointer backdrop-blur-md"
+                >
+                  Join ShopSphere Guild
+                </button>
+              ) : user.role === 'vendor' ? (
+                <button
+                  onClick={() => onNavigate('vendor-dashboard')}
+                  className="px-6 py-3 bg-white/5 hover:bg-white/10 text-white rounded-xl font-bold border border-white/10 text-xs hover:border-white/30 transition-all cursor-pointer backdrop-blur-md"
+                >
+                  Seller Dashboard
+                </button>
+              ) : user.role === 'admin' ? (
+                <button
+                  onClick={() => onNavigate('admin-dashboard')}
+                  className="px-6 py-3 bg-white/5 hover:bg-white/10 text-white rounded-xl font-bold border border-white/10 text-xs hover:border-white/30 transition-all cursor-pointer backdrop-blur-md"
+                >
+                  Admin Panel
+                </button>
+              ) : null}
             </div>
             
             {/* Live Interactive statistics counters */}
